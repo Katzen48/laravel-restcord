@@ -27,7 +27,7 @@
     "php": "^8.0.2",
     "illuminate/support": "^9.0",
     "illuminate/contracts": "^9.0",
-    "restcord/restcord": "dev-v9",
+    "restcord/restcord": "v9.x-dev",
     "laravel/socialite": "^5.5.2"
   },
   "require-dev": {
