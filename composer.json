@@ -16,7 +16,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/katzen48-cores/laravel-restcord/issues"
+    "issues": "https://github.com/katzen48/laravel-restcord/issues"
   },
   "autoload": {
     "psr-4": {
