@@ -23,11 +23,17 @@
       "LaravelRestcord\\": "src/"
     }
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/katzen48/restcord"
+    }
+  ],
   "require": {
     "php": "^8.0.2",
     "illuminate/support": "^9.0",
     "illuminate/contracts": "^9.0",
-    "restcord/restcord": "v9.x-dev",
+    "restcord/restcord": "dev-v9-fixes",
     "laravel/socialite": "^5.5.2"
   },
   "require-dev": {
